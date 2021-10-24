@@ -1,1 +1,2 @@
-# bds-project
+# Projekt z předmětu BPC-BDS
+Tento repozitář slouží jako součást k odevzdání projektu z Bezpečnosti databázových systémů. Obsahuje složky obsahující skripty k PostgreSQL a MySQL. Ve složce k Postgre se nacházejí Python randomizéry a jeden Python formatter, který byl využit ke zpracování souboru `fill.sql` do formy `final_fill.sql`, kterým nakonec byla výsledná databáze plněná. Soubor `final_fill.sql` navíc obsahuje výstup randomizérů v takové formě, v jaké byly záznamy do databáze vkládány.
